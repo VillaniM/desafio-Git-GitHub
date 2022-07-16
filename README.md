@@ -7,4 +7,4 @@ Será utilizado para armazenar informações de estudos sobre controle de versõ
 [Emojis para Markdown](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)  
 [Editor online](https://stackedit.io/app#)  
 
-**Repositório com emojis - <script src="https://gist.github.com/rxaviers/7360908.js"></script>**
+**Repositório com emojis - <script src=https://gist.github.com/rxaviers/7360908.js></script>**
